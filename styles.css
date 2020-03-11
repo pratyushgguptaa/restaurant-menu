@@ -114,7 +114,3 @@ html {
 .side h4{
   color:rgba(255,153,0,0.5);
 }
-@media only screen and (max-width:620px) {
-  .menu, .main, .right {
-    width:100%;
-  }
